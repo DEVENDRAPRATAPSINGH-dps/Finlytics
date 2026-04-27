@@ -1,10 +1,10 @@
-# FinLytics
+# FinSight
 
-AI-powered financial assistant for modern businesses. FinLytics unifies cash flow intelligence, automated insights, and reporting into a clean, fast dashboard that helps teams make confident decisions.
+AI-powered financial assistant for modern businesses. FinSight unifies cash flow intelligence, automated insights, and reporting into a clean, fast dashboard that helps teams make confident decisions.
 
-## Why FinLytics
+## Why FinSight
 
-FinLytics focuses on actionable intelligence rather than raw spreadsheets. It brings AI-driven insights, a natural-language chatbot, and ready-to-share reports together in one workflow so you can move faster on what matters.
+FinSight focuses on actionable intelligence rather than raw spreadsheets. It brings AI-driven insights, a natural-language chatbot, and ready-to-share reports together in one workflow so you can move faster on what matters.
 
 ## Most Valuable Features
 
